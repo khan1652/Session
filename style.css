@@ -1,0 +1,20 @@
+img {
+    width: 400px;
+}
+mark {
+    color: aqua;
+    background-color: black;
+}
+li{
+    list-style:none;
+    font-size:25px;
+    font-weight:600;
+}
+.test{
+    font-size:20px;
+    margin-bottom:10px;
+}
+h4 {
+    background-color:yellow;
+    margin-bottom:1px;
+}
